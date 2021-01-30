@@ -1,11 +1,11 @@
 {
-  "name": "next-typescipt-starter",
+  "name": "nextjs-typescipt-starter",
   "version": "0.1.0",
   "description": "Nextjs + Typescript - Starter kit",
   "private": true,
-  "repository": "iikrom/next-typescipt-starter",
+  "repository": "iikrom/nextjs-typescipt-starter",
   "author": "Ikrom Alizoda <ikrom.develop@gmail.com>",
-  "homepage": "https://github.com/iikrom/next-typescipt-starter#readme",
+  "homepage": "https://github.com/iikrom/nextjs-typescipt-starter#readme",
   "license": "MIT",
   "engines": {
     "node": "12.x"
